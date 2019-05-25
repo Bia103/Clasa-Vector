@@ -1,4 +1,13 @@
 # depslib dependency file v1.0
-1558009799 source:c:\users\bianca\documents\github\proiect3_poo\vector\main.cpp
+1558820048 source:c:\users\bianca\documents\github\proiect3_poo\vector\main.cpp
 	<iostream>
+	<cassert>
+	"Vector.h"
+
+1558819129 c:\users\bianca\documents\github\proiect3_poo\vector\vector.h
+	<iostream>
+	<cassert>
+
+1558818836 source:c:\users\bianca\documents\github\proiect3_poo\vector\vector.cpp
+	"Vector.h"
 
